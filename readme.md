@@ -13,6 +13,8 @@ Usage
      Initialized empty Git repository
     % pole init
     Git repo is now setup for pole
+    % pole create test-2.js
+    You are ready to start developing at .git/hooks/pole/test-2.js
 
 Now you are ready to use pole.
 
