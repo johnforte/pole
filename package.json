@@ -1,0 +1,17 @@
+{
+  "name": "pole",
+  "version": "1.0.0",
+  "description": "A command line program to make creating and using git hooks easier",
+  "main": "pole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Forte",
+  "license": "Apache-2.0",
+  "bin": "./pole.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "git-branch": "^1.0.0"
+  }
+}
